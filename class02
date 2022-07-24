@@ -1,0 +1,18 @@
+# Reading Questions 1
+1- render
+
+2-mounting
+
+3-constructor, render, React Updates, componentDidMount, componentWillUnmount
+
+4-invoked immediately after a component is mounted, If you need to load anything using a network request or initialize the DOM
+
+
+# Reading Questions 2
+
+1-Props are arguments passed into React components and attributes for HTML.
+
+2-props do not change during the lifetime of the component. The state holds the data that can be changed over time and changes the component rendering as a result.
+
+3-updating 
+4-can contain as many properties as we like.
