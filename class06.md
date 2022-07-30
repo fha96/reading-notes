@@ -18,11 +18,10 @@ npm is a package manager for node.js.
 
 5. What version of node are you running on your machine?
 
-node v14.17.5
+node v16.15.1
 
 6. What version of npm are you running on your machine?
-
-7.21.1
+8.13.1
 
 7. What command would you type to install a library/package called ‘jshint’?
 
