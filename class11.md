@@ -1,5 +1,5 @@
 
-# SQL VS NoSQL comparassion
+# SQL VS NoSQL comparison
 | SQL | NoSQL |
 | ----------- | ----------- |
 | Relational Databases | non-relational or distributed |
