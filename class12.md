@@ -33,3 +33,7 @@
 - The server encountered an unexpected condition that prevented it from fulfilling the request.
 8. What is the difference between a status 200 and a status 201?
 - The status 200 means that the request was successful. The status 201 means that the request was successful and a new resource was created.
+
+
+## Things I want to know more about
+- Completely deal with status usages.
