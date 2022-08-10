@@ -15,3 +15,6 @@ Why do diverse companies perform better?
 they’re more flexible and have more options.
 Give an example of how a diverse company can serve a diverse user base or vise-versa.
 a company that has a strong focus on the needs of its users.
+
+## Things I want to know more about
+More about coding.
