@@ -29,3 +29,4 @@
 
 - The main point is do not let the gap between your hopes and your real life effect painfully on your lifestyle.
 - You don't necessarily know what someone is true value.
+- One of the reasons why we fear failing is not just a loss of income, a loss of status. What we fear is the judgment and ridicule of others. And it exists.
