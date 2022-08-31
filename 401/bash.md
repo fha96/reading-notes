@@ -15,6 +15,13 @@
 ## Manual pages
 - man ls : print a set pf pages that rendered every command available on your system.
 - man -k <search term> : if you stuck with (man ls) you can use this command to search by keyword.
+
   
-  
-  # add
+## File manipulating
+
+  - mkdir : create directory.
+  - rmdir : remove empty directory
+  - rm -r : remove none empty directory.
+  - touch : create blank file.
+  - cp : copy files or directories.
+  - mv : move files or directories. 
